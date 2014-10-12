@@ -1,6 +1,6 @@
 public class HelloWorld {
 	public static void main (String[] args) {
-		System.out.println("hello");
-		//This is english
+		//pseudo comment
+		System.out.println("ciao");
 	}
 }
